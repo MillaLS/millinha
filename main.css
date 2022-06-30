@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&family=Lobster&display=swap');
+
+* {
+	font-family: 'Cormorant Garamond', serif;
+	text-align: center;
+}
+
+body {
+	background: #fae4e1
+
+}
+
+.title{
+	color: #ab1b05
+}
+
+table{
+	margin:auto; /* Centraliza sua tabela */
+}
